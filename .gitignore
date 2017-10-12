@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+.sonarlint
+.scannerwork
+testxlsx/sample/*
+coverage.txt
+coverage.xml
+report.xml
+test.xml
+sonar-project.properties
